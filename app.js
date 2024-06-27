@@ -58,7 +58,7 @@ function recursiveSum(arr) {
         // Recursive case: sum of the first element and the sum of the rest of the array
         return arr[0] + recursiveSum(arr.slice(1));
         // i wached a vidoe about slice method and tryed to use it
-        // i wanna start using method
+    
     }
 }
 
